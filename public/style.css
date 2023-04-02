@@ -1,0 +1,10 @@
+
+.mainDiv{
+    align-items: center;
+    text-align: center;
+    background-color: bisque;
+}
+input{
+    height: 50px;
+    width: 20%;
+}
